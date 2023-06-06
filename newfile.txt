@@ -1,0 +1,3 @@
+This is new file 
+not empty. 
+created for git newbranch 
