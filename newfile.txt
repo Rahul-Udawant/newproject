@@ -1,3 +1,5 @@
 This is new file 
 not empty. 
 created for git newbranch 
+This line is newly added for git diff checking.
+
